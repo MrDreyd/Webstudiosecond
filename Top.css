@@ -1,0 +1,181 @@
+.header {
+    /* top line bg */
+position: absolute;
+width: 1600px;
+height: 80px;
+left: 0px;
+top: 0px;
+
+background: #ffffff;
+
+}
+.body {
+    position: relative;
+    width: 100%;
+    height: 2379px;
+    margin: auto;
+}
+.container {
+    position: relative;
+    width: 1600px;
+    height: 2379px;
+    margin: auto;
+}
+
+.webstudio:active {
+    color: #2196f3;
+}
+.webstudio:hover {
+text-decoration: underline;
+}
+.webstudio:visited {
+    color: #2196F3;
+
+}
+.webstudio{
+    /* WebStudio */
+    position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+.studio{
+    text-decoration: none;
+    color: black;
+}
+.studionav {
+    /* Студия */
+position: absolute;
+width: 49px;
+height: 16px;
+left: 453px;
+top: 32px;
+
+padding: 40;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #000000;
+text-decoration: none;
+}
+
+.studionav:hover {
+    text-decoration: underline;
+    color: #2196F3;
+}
+.studionav:visited {
+    color: none;
+}
+
+.portfolio {
+    /* Портфолио */
+position: absolute;
+width: 77px;
+height: 16px;
+left: 552px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #212121;
+text-decoration: none;
+}
+
+.portfolio:hover {
+    text-decoration: underline;
+    color: #2196F3;
+
+}
+
+.portfolio:visited {
+    color: none;
+}
+
+.contact {
+    /* Контакты */
+position: absolute;
+width: 68px;
+height: 16px;
+left: 679px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #212121;
+text-decoration: none;
+}
+
+.contact:hover {
+    text-decoration: underline;
+    color: #2196F3;
+
+}
+
+.contact:visited {
+    color: none;
+}
+
+.mail {/* info@devstudio.com */
+    position: absolute;
+    width: 135px;
+    height: 16px;
+    left: 1078px;
+    top: 32px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
+    text-decoration: none;
+}
+
+.mail:hover {
+    text-decoration: underline;
+    color: #2196f3;
+ }
+
+.mail:visited {
+    color: none;
+}
+
+.number {
+    /* +38 096 111 11 11 */
+position: absolute;
+width: 122px;
+height: 16px;
+left: 1263px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #757575;
+}
